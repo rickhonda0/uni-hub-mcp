@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Synced course material and local state (private; may contain copyrighted course content)
+corpus/
+raw/
+state/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
